@@ -1,9 +1,4 @@
-
-* Udemy Coupon Grabber & Course Enroller: Grab FREE Coupons!
-
-Do you want to LEARN NEW STUFF for FREE? Don't worry, with the power of
-web-scraping and automation, this script will find the necessary Udemy Coupons
-&amp; enroll you to PAID UDEMY COURSES, ABSOLUTELY FREE!
+### Udemy Course Enroller
 
 **NOTE: THIS PROJECT IS NOT AFFILIATED WITH UDEMY.**
 
@@ -99,5 +94,10 @@ Savings:                    €2674.44
 ================== Run Statistics ==================
 ```
 	
+### Tutorial 
+##### Udemy Enroller in Termux
+
+[![Udemy Enroller in Termux](https://img.youtube.com/vi/cdAnQaGo3C4/0.jpg)](https://www.youtube.com/watch?v=cdAnQaGo3C4 "GET Udemy Courses for FREE with Python |")
+
 
 ---
